@@ -1,5 +1,5 @@
 
-const navbar      = document.getElementById('navbar');
+const navbar      = document.getElementById('navbar'); 
 const stickyCta   = document.getElementById('stickyCta');
 const waFloat     = document.getElementById('whatsappFloat');
 
